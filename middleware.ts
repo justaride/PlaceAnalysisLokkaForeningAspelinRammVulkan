@@ -1,8 +1,9 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
+// Authentication disabled - public access for Aspelin Ramm Vulkan Portfolio
 export function middleware(request: NextRequest) {
-  // Password protection disabled - allow all access
+  // Allow all requests without authentication
   return NextResponse.next();
 }
 
