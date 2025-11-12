@@ -59,10 +59,10 @@ function LoginForm() {
           {/* Title */}
           <div className="mb-8 text-center">
             <h1 className="mb-2 text-2xl font-bold text-lokka-primary">
-              Eiendomsanalyse Oslo
+              Aspelin Ramm Vulkan Portfolio
             </h1>
             <p className="text-sm text-lokka-secondary">
-              by Natural State, for Maya Eiendom
+              by Natural State, for Aspelin Ramm
             </p>
           </div>
 
